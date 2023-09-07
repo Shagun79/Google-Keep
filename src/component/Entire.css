@@ -1,0 +1,59 @@
+body {
+  font-family: sans-serif;
+}
+
+.header {
+  width: 90rem;
+  background-color: yellow;
+  border-radius: 5px;
+  height: 100px;
+  display: flex;
+  color: orangered;
+}
+.text {
+  padding: 10px;
+}
+.img {
+  padding: 20px;
+}
+.mainDiv {
+  width: 30rem;
+  height: 200px;
+  border: 1px solid gold;
+  margin: auto;
+  margin-top: 60px;
+  border-radius: 20px;
+  box-shadow: 5px 10px 8px #888888;
+}
+.InputBox {
+  margin-top: 20px;
+}
+input {
+  border: none;
+  outline: none;
+  text-align: center;
+}
+textarea {
+  border: none;
+  outline: none;
+}
+.plus{
+  position: absolute;
+  left: 922px;
+  bottom: 450px;
+  border-radius: 50px;
+  border: none;
+  
+}
+.Note{
+  
+    width: 17rem;
+    height: 150px;
+     margin: 50px;
+     border-radius: 20px;
+  box-shadow:   10px 5px 5px 8px #b8b7b7;
+}
+ .delete{
+    position: absolute;
+    left:  290px;
+ }    
